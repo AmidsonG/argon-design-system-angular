@@ -42,7 +42,7 @@ import { NgbdModalContent } from './modal/modal.component';
         NgbModule,
         RouterModule,
         NouisliderModule,
-        JwBootstrapSwitchNg2Module
+        
     ],
     exports: [SectionsComponent]
 })
